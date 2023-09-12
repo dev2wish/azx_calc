@@ -1,3 +1,5 @@
+-- Copyright © 2023 az0ox. All rights reserved.
+
 fx_version 'cerulean'
 games { 'gta5', 'rdr3' }
 
