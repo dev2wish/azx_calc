@@ -1,3 +1,5 @@
+-- Copyright © 2023 az0ox. All rights reserved.
+
 let displayValue = "";
 const inputCalc = document.getElementById("display");
 
